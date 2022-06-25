@@ -1,0 +1,5 @@
+ariadne
+uvicorn
+flask
+flask-sqlalchemy
+flask-migrate
